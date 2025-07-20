@@ -63,8 +63,7 @@ You will need to have a Firebase project and a Google Gemini API key.
     * Replace `"YOUR_GEMINI_API_KEY"` with your actual Gemini API key.
     ```javascript
     async function callGemini(prompt, expectJson = true) {
-        // IMPORTANT: For production, this key should be secured on a backend server,
-        // not exposed in client-side JavaScript.
+        // this key should be secured on a backend server and not be exposed in client-side JavaScript.
         const apiKey = "YOUR_GEMINI_API_KEY";
         // ...
     }
