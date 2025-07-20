@@ -82,3 +82,5 @@ You will need to have a Firebase project and a Google Gemini API key.
 ├── style.css       # Custom styles, theme, and animations for the application.
 └── README.md       # This file.
 ```
+<img width="2048" height="1720" alt="quickquiz-homescreen" src="https://github.com/user-attachments/assets/fc3f04a8-6188-464e-a9db-ef67043fc433" />
+
