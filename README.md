@@ -83,4 +83,7 @@ You will need to have a Firebase project and a Google Gemini API key.
 └── README.md       # This file.
 ```
 <img width="2048" height="1720" alt="quickquiz-homescreen" src="https://github.com/user-attachments/assets/fc3f04a8-6188-464e-a9db-ef67043fc433" />
+<img width="1756" height="906" alt="quiz-taking" src="https://github.com/user-attachments/assets/11856e2d-43da-45c6-b65f-44c68c63177d" />
+<img width="1595" height="390" alt="ai-question-generator" src="https://github.com/user-attachments/assets/79404298-3d4a-4546-8952-18ce7f8f39aa" />
+<img width="993" height="660" alt="option-generator" src="https://github.com/user-attachments/assets/8e1ba08f-4380-4fb5-aeda-7d3c75b2a913" />
 
